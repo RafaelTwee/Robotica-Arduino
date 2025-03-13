@@ -1,8 +1,6 @@
-#include <Arduino.h>
-#include <NewPing.h>
 
 void loop () {
-
+    int a = 3;
 
 
 }
